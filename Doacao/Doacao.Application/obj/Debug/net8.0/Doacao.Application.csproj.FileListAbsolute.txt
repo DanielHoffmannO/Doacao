@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\bin\Debug\net8.0\Doacao.Application.deps.json
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\bin\Debug\net8.0\Doacao.Application.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\bin\Debug\net8.0\Doacao.Application.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.Application.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.Application.AssemblyInfo.cs
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.Application.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\refint\Doacao.Application.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.Application.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\ref\Doacao.Application.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.Application.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\bin\Debug\net8.0\Doacao.Domain.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\bin\Debug\net8.0\Doacao.Domain.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Application\obj\Debug\net8.0\Doacao.A.2D5D0461.Up2Date

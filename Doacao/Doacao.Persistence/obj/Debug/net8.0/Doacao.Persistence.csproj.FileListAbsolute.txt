@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\bin\Debug\net8.0\Doacao.Persistence.deps.json
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\bin\Debug\net8.0\Doacao.Persistence.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\bin\Debug\net8.0\Doacao.Persistence.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\bin\Debug\net8.0\Doacao.Domain.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\bin\Debug\net8.0\Doacao.Domain.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.Persistence.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.Persistence.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.Persistence.AssemblyInfo.cs
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.P.3820813F.Up2Date
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.Persistence.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\refint\Doacao.Persistence.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\Doacao.Persistence.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Persistence\obj\Debug\net8.0\ref\Doacao.Persistence.dll

@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\bin\Debug\net8.0\Doacao.Domain.deps.json
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\bin\Debug\net8.0\Doacao.Domain.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\bin\Debug\net8.0\Doacao.Domain.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\Doacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\Doacao.Domain.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\Doacao.Domain.AssemblyInfo.cs
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\Doacao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\Doacao.Domain.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\refint\Doacao.Domain.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\Doacao.Domain.pdb
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\ref\Doacao.Domain.dll
+C:\Users\danie\source\repos\Doacao\Doacao\Doacao.Domain\obj\Debug\net8.0\Doacao.Domain.csproj.AssemblyReference.cache
